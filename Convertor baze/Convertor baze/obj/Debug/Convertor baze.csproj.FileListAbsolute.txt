@@ -1,0 +1,6 @@
+C:\Users\silvia1\Desktop\Proiecte ASC\Convertor baze\Convertor baze\bin\Debug\Convertor baze.exe.config
+C:\Users\silvia1\Desktop\Proiecte ASC\Convertor baze\Convertor baze\bin\Debug\Convertor baze.exe
+C:\Users\silvia1\Desktop\Proiecte ASC\Convertor baze\Convertor baze\bin\Debug\Convertor baze.pdb
+C:\Users\silvia1\Desktop\Proiecte ASC\Convertor baze\Convertor baze\obj\Debug\Convertor baze.csprojAssemblyReference.cache
+C:\Users\silvia1\Desktop\Proiecte ASC\Convertor baze\Convertor baze\obj\Debug\Convertor baze.exe
+C:\Users\silvia1\Desktop\Proiecte ASC\Convertor baze\Convertor baze\obj\Debug\Convertor baze.pdb
